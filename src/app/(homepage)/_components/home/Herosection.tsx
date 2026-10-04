@@ -21,7 +21,7 @@ const HeroSection = () => {
       </h1>
       <p className="max-w-[95%] text-xs text-neutral-600 sm:max-w-[90%] sm:text-base md:max-w-[65%] lg:max-w-[45%] lg:text-lg">
         Talk about structured channels, cohort communication, and affordable
-        pricing.
+        pricing with Team Raven..
       </p>
       <div className="flex w-full max-w-md flex-row items-center justify-center gap-2 sm:gap-3">
         <ArrowBtn text="Try for free" linkToHome className="justify-center" />
